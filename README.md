@@ -1,4 +1,4 @@
-# Hi there, I'm RimHiro! 👋
+# Hi there, I'm RimHiru! 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=Future+Cyber+Security+Expert;Open+Source+Contributor;Minecraft+Architect" alt="Typing SVG" />
 
