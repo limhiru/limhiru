@@ -1,15 +1,13 @@
-# Hi there, I'm RimHiru! 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=Future+Cyber+Security+Expert;Open+Source+Contributor;Minecraft+Architect" alt="Typing SVG" />
+# **<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&color=%2387CEEB&width=400&center=false&repeat=false&lines=Hi,+I+am+hiru" alt="Hi, I am hiru" />**
 
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%EB%A6%BC%ED%9E%88%EB%A3%A8%2F%EB%A6%BC%ED%9E%88%EB%A3%A8&count_bg=%2322C55E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-### 🛠️ Tech & Tools
+## 📫 Contact Me
+저에게 궁금한 점이 있거나 함께 이야기 나누고 싶다면 언제든 연락해 주세요!  
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://discord.com/users/1262282826636591104">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
 </p>
